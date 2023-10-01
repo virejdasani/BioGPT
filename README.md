@@ -1,1 +1,1 @@
-BioGPT a Large Language Model for Biomedical Text Generation
+BioGPT is a Large Language Model for Biomedical Text Generation
